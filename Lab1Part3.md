@@ -1,1 +1,3 @@
-Second File for Lab 1
+# Heading _italic_ __bold__ Wilson Lee
+Horizontal rule:
+---
