@@ -1,4 +1,5 @@
-![Image](cd.PNG)
+![Image](cd.png)
+
 ![Image](cd1.PNG)
 ---
 Cd changes the directory. Cd with no arguments does not output anything. When typing cd with a path to directory, it accesses the folder being called. When typing cd with a file name would be an error since it is not a directory.
